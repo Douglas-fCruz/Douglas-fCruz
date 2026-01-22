@@ -1,6 +1,6 @@
 # **👑 About Me** 
 
-## 📞 My Contacts:
+<h3>📞 My Contacts:</h3>
 <div><br>
     <a href="https://github.com/Douglas-fCruz" target="_blank">
     <img width="32" src="https://skillicons.dev/icons?i=github" target="_blank">

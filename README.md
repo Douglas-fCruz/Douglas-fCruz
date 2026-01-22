@@ -14,20 +14,20 @@
 
 <div><br>
     <h3>Operational Systems:</h2>
-    <img height="100" widt="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg"><br>
-    <img height="100" widt="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg">
+    <img height="50" widt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg"><br>
+    <img height="50" widt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg">
 </div>
 
 <div style="display: inline_block">    
     <h3>Programming Languages:</h3>
-    <img height="100" widt="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/><br>
-    <img height="10" widt="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"/><br>
-    <img height="100" widt="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg"/><br>  
-    <img height="100" widt="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> 
+    <img height="50" widt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/><br>
+    <i class="ci ci-bash"></i><br>
+    <img height="50" widt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg"/><br>  
+    <img height="50" widt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> 
 </div>
 
 <div><br>
-    <h3>Markup Languages:</h3> 
-    <link height="100" widt="110" rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/><br>
-    <img height="100" widt="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
+    <h3>Markup Languages:</h3>
+    <img height="50" widt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/><br>
+    <img height="50" widt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
 </div>

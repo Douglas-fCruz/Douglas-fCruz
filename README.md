@@ -1,6 +1,6 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@master/app/ci.min.css"/>
-
-## <h1>Welcome to My Profile</h1>
+<p align="center">
+    ## <h1>Welcome to My Profile</h1>
+</p>
 
 ## <h3>Douglas Ferreira Cruz</h3><br>
 

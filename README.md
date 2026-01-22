@@ -1,4 +1,4 @@
-## <h1>Welcome to My Profile</h1>
+## <h1 style="text-align: center;">Welcome to My Profile</h1>
 
 <!--
 **Douglas-fCruz/Douglas-fCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
-# | **Welcome to My Profile** |
-| :---: |
-## **Douglas Ferreira Cruz**|
+# **Welcome to My Profile** 
+
+## **Douglas Ferreira Cruz**
 
 ## Professional Contacts:
 <div><br>

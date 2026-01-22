@@ -1,7 +1,7 @@
 # **👑 About Me** 
 
 <h3>📞 My Contacts:</h3>
-<div><br>
+<div>
     <a href="https://github.com/Douglas-fCruz" target="_blank">
     <img width="32" src="https://skillicons.dev/icons?i=github" target="_blank">
     <a href="https://www.instagram.com/dodo_fcruz/" target="_blank">

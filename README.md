@@ -3,31 +3,31 @@
 ## <h3>Douglas Ferreira Cruz</h3><br>
 
 ## <h3>Professional Contacts:</h3><br>
-<div style="display: inline_block"><br>
+<div><br>
     <a href="https://github.com/Douglas-fCruz" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" target="_blank"><br>
+    <img src="https://skillicons.dev/icons?i=github" target="_blank">
     <a href="https://www.instagram.com/dodo_fcruz/" target="_blank">
-    <img height="100" widt="110" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br>
+    <img src="https://skillicons.dev/icons?i=instagram" target="_blank">
     <a href="https://www.linkedin.com/in/douglas-cruz-a80123275/" target="_blank">
-    <img height="100" widt="110" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <img src="https://skillicons.dev/icons?i=linkedin" target="_blank">
 </div>
 
 <div><br>
     <h3>Operational Systems:</h2>
-    <img height="50" widt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg"><br>
-    <img height="50" widt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg">
+    <img src="https://skillicons.dev/icons?i=kali">
+    <img src="https://skillicons.dev/icons?i=windows">
 </div>
 
 <div style="display: inline_block">    
     <h3>Programming Languages:</h3>
-    <img height="50" widt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/><br>
-    <img height="50" widt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"/><br>
-    <img height="50" widt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg"/><br>  
-    <img height="50" widt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> 
+    <img src="https://skillicons.dev/icons?i=bash">
+    <img src="https://skillicons.dev/icons?i=python">
+    <img src="https://skillicons.dev/icons?i=cs"> 
+    <img src="https://skillicons.dev/icons?i=powershell"> 
 </div>
 
-<div><br>
+<div>
     <h3>Markup Languages:</h3>
-    <i class="ci ci-html"></i><br>
-    <img height="50" widt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
+    <img src="https://skillicons.dev/icons?i=html">
+    <img src="https://skillicons.dev/icons?i=css">
 </div>

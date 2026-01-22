@@ -1,6 +1,6 @@
-# **About Me** 
+# **👑 About Me** 
 
-## Professional Contacts:
+## 📞 My Contacts:
 <div><br>
     <a href="https://github.com/Douglas-fCruz" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" target="_blank">
@@ -11,13 +11,13 @@
 </div>
 
 <div><br>
-    <h3>Operational Systems:</h2>
+    <h3>🌐 Operational Systems:</h2>
     <img src="https://skillicons.dev/icons?i=kali">
     <img src="https://skillicons.dev/icons?i=windows">
 </div>
 
 <div style="display: inline_block">    
-    <h3>Programming Languages:</h3>
+    <h3>💻 Programming Languages:</h3>
     <img src="https://skillicons.dev/icons?i=bash">
     <img src="https://skillicons.dev/icons?i=python">
     <img src="https://skillicons.dev/icons?i=cs"> 
@@ -25,7 +25,7 @@
 </div>
 
 <div>
-    <h3>Markup Languages:</h3>
+    <h3>🎨 Markup Languages:</h3>
     <img src="https://skillicons.dev/icons?i=html">
     <img src="https://skillicons.dev/icons?i=css">
 </div>

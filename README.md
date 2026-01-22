@@ -1,8 +1,8 @@
-## <h1>Welcome to My Profile</h1>
+# | **Welcome to My Profile** |
+| :---: |
+## **Douglas Ferreira Cruz**|
 
-## <h3>Douglas Ferreira Cruz</h3><br>
-
-## <h3>Professional Contacts:</h3><br>
+## Professional Contacts:
 <div><br>
     <a href="https://github.com/Douglas-fCruz" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" target="_blank">

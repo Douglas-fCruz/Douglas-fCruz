@@ -1,5 +1,9 @@
 # **👑 About Me** 
 
+🔴 Penetration-Test Student<br>
+🎓 Information Security - Graduation<br>
+💻Learning Programming 
+
 <h3>📞 My Contacts:</h3>
 <div>
     <a href="https://github.com/Douglas-fCruz" target="_blank">

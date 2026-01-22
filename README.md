@@ -1,8 +1,8 @@
-# **Welcome to My Profile** 
+<p align="center">
+    # **About me** 
+</p>
 
-## **Douglas Ferreira Cruz**
-
-## Professional Contacts:
+## My Contacts Links:
 <div><br>
     <a href="https://github.com/Douglas-fCruz" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" target="_blank">

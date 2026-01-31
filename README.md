@@ -1,35 +1,34 @@
 # **👑 About Me** 
 
-## 👨‍💻 Douglas Cruz
+### 👨‍💻My name is Douglas Cruz!
+I am an undergraduate student in **Information Security**, focused on **Penetration Testing**.  
+I am interested in offensive security, vulnerability exploitation, and understanding the attacker mindset.
 
-Sou graduando em **Segurança da Informação**, com foco em **Penetration Testing**.  
-Tenho interesse em segurança ofensiva, exploração de vulnerabilidades e no estudo da mentalidade do atacante.
-
-Atualmente, estou aprimorando meus conhecimentos por meio de estudos práticos, labs e desenvolvimento de projetos voltados à cibersegurança.
+Currently, I am improving my skills through hands-on practice, labs, and the development of cybersecurity-related projects.
 
 ---
 
 ## 🧠 Skills
 
-🔐 Fundamentos de Segurança da Informação  
-🥷  Reconhecimento e enumeração de alvos  
-🔍 Análise de vulnerabilidades  
-- Conceitos de redes, DNS e protocolos  
-- Segurança ofensiva e mindset do atacante  
-🔴 Penetration-Test Student
-🎓 Information Security - Graduation
+🔐 Information Security Fundamentals 
+🥷 Target reconnaissance and enumeration 
+🔍 Vulnerability Analysis  
+🌐 Network Concepts & Protocols  
+🧠 Offensive Security Mindset  
+🔴 Penetration-Test Student<br>
+🎓 Information Security - Undergraduate<br>
 💻Learning Programming 
 ---
 
-## 🧪 Labs & Plataformas
+## 🧪 Labs & Plataforms
 
-- Hack The Box (HTB)  
-- TryHackMe (THM)  
-- Laboratórios locais (VMs / ambientes controlados)  
+🔗 Hack The Box (HTB)  
+🔗 TryHackMe (THM)  
+🔗 VMs / Local Machines 
 
 ---
 
-## 🛠️ Ferramentas
+## 🛠️ Tools
 
 💥 Nmap  
 💥 Burp Suite  
@@ -40,11 +39,11 @@ Atualmente, estou aprimorando meus conhecimentos por meio de estudos práticos, 
 
 ---
 
-## 📜 Certificações
+## 📜 Certificates
 
-- Introduction to Penetration-Test - Desec Security
-- Introduction to Cybersecurity - Cisco
-- Networking Basics - Cisco
+🎓 Introduction to Penetration-Test - Desec Security
+🎓 Introduction to Cybersecurity - Cisco
+🎓 Networking Basics - Cisco
 
 <h3>📞 My Contacts:</h3>
 <div>

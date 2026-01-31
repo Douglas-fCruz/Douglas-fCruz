@@ -5,7 +5,46 @@
 Sou graduando em **Segurança da Informação**, com foco em **Penetration Testing**.  
 Tenho interesse em segurança ofensiva, exploração de vulnerabilidades e no estudo da mentalidade do atacante.
 
-Atualmente, estou aprimorando meus conhecimentos por meio de estudos práticos e desenvolvimento de projetos voltados à cibersegurança.
+Atualmente, estou aprimorando meus conhecimentos por meio de estudos práticos, labs e desenvolvimento de projetos voltados à cibersegurança.
+
+---
+
+## 🧠 Skills
+
+🔐 Fundamentos de Segurança da Informação  
+🥷  Reconhecimento e enumeração de alvos  
+🔍 Análise de vulnerabilidades  
+- Conceitos de redes, DNS e protocolos  
+- Segurança ofensiva e mindset do atacante  
+🔴 Penetration-Test Student
+🎓 Information Security - Graduation
+💻Learning Programming 
+---
+
+## 🧪 Labs & Plataformas
+
+- Hack The Box (HTB)  
+- TryHackMe (THM)  
+- Laboratórios locais (VMs / ambientes controlados)  
+
+---
+
+## 🛠️ Ferramentas
+
+💥 Nmap  
+💥 Burp Suite  
+💥 Metasploit  
+💥 Nikto  
+💥 Gobuster / Dirsearch  
+💥 Linux (Kali Linux)
+
+---
+
+## 📜 Certificações
+
+- Introduction to Penetration-Test - Desec Security
+- Introduction to Cybersecurity - Cisco
+- Networking Basics - Cisco
 
 <h3>📞 My Contacts:</h3>
 <div>
@@ -24,15 +63,12 @@ Atualmente, estou aprimorando meus conhecimentos por meio de estudos práticos e
 </div>
 
 <div style="display: inline_block">    
-    <h3>💻 Programming Languages:</h3>
+    <h3>💻🎨 Languages && Technologies:</h3>
     <img width="32" src="https://skillicons.dev/icons?i=bash">
     <img width="32" src="https://skillicons.dev/icons?i=python">
     <img width="32" src="https://skillicons.dev/icons?i=cs"> 
     <img width="32" src="https://skillicons.dev/icons?i=powershell"> 
-</div>
-
-<div>
-    <h3>🎨 Markup Languages:</h3>
     <img width="32" src="https://skillicons.dev/icons?i=html">
     <img width="32" src="https://skillicons.dev/icons?i=css">
 </div>
+

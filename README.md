@@ -1,8 +1,11 @@
 # **👑 About Me** 
 
-🔴 Penetration-Test Student<br>
-🎓 Information Security - Graduation<br>
-💻Learning Programming 
+## 👨‍💻 Douglas Cruz
+
+Sou graduando em **Segurança da Informação**, com foco em **Penetration Testing**.  
+Tenho interesse em segurança ofensiva, exploração de vulnerabilidades e no estudo da mentalidade do atacante.
+
+Atualmente, estou aprimorando meus conhecimentos por meio de estudos práticos e desenvolvimento de projetos voltados à cibersegurança.
 
 <h3>📞 My Contacts:</h3>
 <div>

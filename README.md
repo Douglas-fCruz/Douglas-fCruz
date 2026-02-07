@@ -8,7 +8,7 @@ Currently, I am improving my skills through hands-on practice, labs, and the dev
 
 ---
 
-##🧠 Skills
+## 🧠 Skills
 
 🔐 Information Security Fundamentals 
 🥷 Target reconnaissance and enumeration 
@@ -45,7 +45,7 @@ Currently, I am improving my skills through hands-on practice, labs, and the dev
 🎓 Introduction to Cybersecurity - Cisco
 🎓 Networking Basics - Cisco
 
-##📞 My Contacts:
+## 📞 My Contacts:
 <div>
     <a href="https://github.com/Douglas-fCruz" target="_blank">
     <img width="32" src="https://skillicons.dev/icons?i=github" target="_blank">
@@ -62,7 +62,7 @@ Currently, I am improving my skills through hands-on practice, labs, and the dev
 </div>
 
 <div style="display: inline_block">    
-    ##💻🎨 Languages & Technologies:
+    ## 💻🎨 Languages & Technologies:
     <img width="32" src="https://skillicons.dev/icons?i=bash">
     <img width="32" src="https://skillicons.dev/icons?i=python">
     <img width="32" src="https://skillicons.dev/icons?i=cs"> 

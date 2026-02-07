@@ -1,50 +1,10 @@
 # **👑 About Me** 
 
-### 👨‍💻My name is Douglas Cruz!
-I'm an undergraduate student in **Information Security**, focused on **Penetration Testing**.<br>
-I'm interested in offensive security, vulnerability exploitation, and understanding the attacker mindset.<br>
-Currently, i'm improving my skills through hands-on practice, labs, and the development of cybersecurity-related projects.
-
----
-
-## 🧠 Skills
-
-🔐 Information Security Fundamentals<br>
-🥷 Target reconnaissance and enumeration<br>
-🔍 Vulnerability Analysis<br>
-🌐 Network Concepts & Protocols<br>
-🧠 Offensive Security Mindset<br>
 🔴 Penetration-Test Student<br>
-🎓 Information Security - Undergraduate<br>
-💻 Learning Programming
+🎓 Information Security - Graduation<br>
+💻Learning Programming 
 
----
-## 🧪 Labs & Plataforms
-
-🔗 Hack The Box (HTB)  
-🔗 TryHackMe (THM)  
-🔗 VMs / Local Machines 
-
----
-
-## 🛠️ Tools
-
-💥 Nmap  
-💥 Burp Suite  
-💥 Metasploit  
-💥 Nikto  
-💥 Gobuster / Dirsearch  
-💥 Linux (Kali Linux)
-
----
-
-## 📜 Certificates
-
-🎓 Introduction to Penetration-Test - Desec Security<br>
-🎓 Introduction to Cybersecurity - Cisco<br>
-🎓 Networking Basics - Cisco
-
-<h2>📞 My Contacts:</h2>
+<h3>📞 My Contacts:</h3>
 <div>
     <a href="https://github.com/Douglas-fCruz" target="_blank">
     <img width="32" src="https://skillicons.dev/icons?i=github" target="_blank">
@@ -54,22 +14,24 @@ Currently, i'm improving my skills through hands-on practice, labs, and the deve
     <img width="32" src="https://skillicons.dev/icons?i=linkedin" target="_blank">
 </div>
 
-<h2> 🌐 Operational Systems:</h2>
-<div>
+<div><br>
+    <h3>🌐 Operational Systems:</h2>
     <img width="32" src="https://skillicons.dev/icons?i=kali">
     <img width="32" src="https://skillicons.dev/icons?i=windows">
 </div>
 
 <h2> 💻 Programming Languages:</h2>
 <div style="display: inline_block">    
+    <h3>💻 Programming Languages:</h3>
     <img width="32" src="https://skillicons.dev/icons?i=bash">
     <img width="32" src="https://skillicons.dev/icons?i=python">
     <img width="32" src="https://skillicons.dev/icons?i=cs"> 
     <img width="32" src="https://skillicons.dev/icons?i=powershell"> 
 </div>
 
-<h2>🎨 Markup Languages:</h2>
 <div>
+    <h3>🎨 Markup Languages:</h3>
     <img width="32" src="https://skillicons.dev/icons?i=html">
     <img width="32" src="https://skillicons.dev/icons?i=css">
 </div>
+

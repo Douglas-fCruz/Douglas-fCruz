@@ -46,12 +46,9 @@ Currently, i'm improving my skills through hands-on practice, labs, and the deve
 
 <div>
     <h2>📞 My Contacts:</h2>
-    <a href="https://github.com/Douglas-fCruz" target="_blank">
-    <img width="32" src="https://skillicons.dev/icons?i=github" target="_blank">
-    <a href="https://www.instagram.com/dodo_fcruz/" target="_blank">
-    <img width="32" src="https://skillicons.dev/icons?i=instagram" target="_blank">
-    <a href="https://www.linkedin.com/in/douglas-cruz-a80123275/" target="_blank">
-    <img width="32" src="https://skillicons.dev/icons?i=linkedin" target="_blank">
+    <a href="https://github.com/Douglas-fCruz" target="_blank" rel="noopener noreferrer"><img width="32" src="https://skillicons.dev/icons?i=github" target="_blank"></a>
+    <a href="https://www.instagram.com/dodo_fcruz/" target="_blank" rel="noopener noreferrer"><img width="32" src="https://skillicons.dev/icons?i=instagram" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/douglas-cruz-a80123275/" target="_blank" rel="noopener noreferrer"><img width="32" src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a>
 </div>
 
 <div>

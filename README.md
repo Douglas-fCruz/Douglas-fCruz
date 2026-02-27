@@ -1,6 +1,7 @@
 # **👑 About Me** 
 
-### 👨‍💻My name is Douglas Cruz!
+### 👨‍💻Hello,
+### My name is Douglas!
 I'm an undergraduate student in **Information Security**, focused on **Penetration Testing**.<br>
 I'm interested in offensive security, vulnerability exploitation, and understanding the attacker mindset.<br>
 Currently, i'm improving my skills through hands-on practice, labs, and the development of cybersecurity-related projects.
